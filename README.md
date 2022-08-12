@@ -35,11 +35,16 @@ When I'm not coding I find myself reading fictions and watching scifi.
 
 # 📊 GitHub Stats:
 
+<br/>
+<p align="left">
 
+ <a href="https://github.com/DiegoMero/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KrishnaBot&show_icons=true&theme=react&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBot&theme=react&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api?username=Krishnabot&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krishnabot&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnabot&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</p>
+<br>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Krishnabot)](https://github.com/Krishnabot/github-readme-activity-graph)
 
 <hr>
 
