@@ -44,7 +44,7 @@ When I'm not coding I find myself reading fictions and watching scifi.
 
 </p>
 <br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Krishnabot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <hr>
 
