@@ -42,4 +42,5 @@ When I'm not coding I find myself reading fictions and watching scifi.
 
 </p>
 </br>
-</p>
+
+[![Krishna's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnabot&custom_title=Krishnabot's%20Contribution%20Graph&theme=react-dark&hide_border=true)](https://github.com/Krishnabot/)
