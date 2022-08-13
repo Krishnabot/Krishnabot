@@ -38,12 +38,14 @@ When I'm not coding I find myself reading fictions and watching scifi.
 <br/>
 <p align="left">
 
- <a href="https://github.com/DiegoMero/">
+ <a href="https://github.com/Krishnabot/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KrishnaBot&show_icons=true&theme=react&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaBot&theme=react&hide_border=true" />
 
 </p>
 <br>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Krishnabot)  
+
 
 
 <hr>
