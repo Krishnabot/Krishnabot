@@ -7,15 +7,15 @@ Hello There! I am Krishna a full-stack developer.
 </h1>
 <div align="left">
 
-🔭 I’m currently working on A task management application using React  😁
+👨🏽‍💻 I’m currently working on a complete E-commerce site using Rails 
 
-🌱 I’m currently learning  MERN Stack.
+🎮️ I’m currently learning  CreateJs and Game Development.
 
-💬 Ask me about Data Structures, CSS, JavaScript, and React.
+💬 Ask me about Data Structures, JavaScript, React, and Rails.
 
-📫 How to reach me? Shoot me a mail at:  libraryismyparadise@gmail.com
+📧 How to reach me? Shoot me a mail at:  libraryismyparadise@gmail.com
 
-⚡ Fun fact I like to Read Sci-fi and write about them 😁
+⚡ Fun fact I like to Read Sci-fi 📚️ and write about them 👽️🛸
  
  </div>
 <hr>
