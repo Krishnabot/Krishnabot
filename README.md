@@ -3,11 +3,11 @@
  </div>
 
 <h1 align="center" size="50px">
-Hello There! I am Krishna a full-stack developer.  
+Hello There! I am Krishna, a full-stack developer.  
 </h1>
 <div align="left">
 
-👨🏽‍💻 I’m currently working on a complete E-commerce site using Rails 
+👨🏽‍💻 I’m currently building  a Social App   using Rails and Flutter
 
 🎮️ I’m currently learning  CreateJs and Game Development.
 
